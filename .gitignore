@@ -1,0 +1,8 @@
+/lib/com
+/lib/test_code
+/build
+/restore
+/.dart_tool
+/android
+/.flutter-plugins
+/.flutter-plugins-dependencies
