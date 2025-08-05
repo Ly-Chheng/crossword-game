@@ -104,21 +104,6 @@ class CrossWordController extends GetxController {
     });
   }
 
-  // Future<void> _saveStars(int levelIndex, int stars) async {
-  //   log("=== _saveStars() START ===");
-  //   log("Saving stars - Level: $levelIndex, Stars: $stars");
-
-  //   try {
-  //     final prefs = await SharedPreferences.getInstance();
-  //     await prefs.setInt('level_${levelIndex}_stars', stars);
-  //     log("Successfully saved $stars stars for level $levelIndex");
-  //   } catch (e) {
-  //     log("ERROR saving stars: $e");
-  //   }
-
-  //   log("=== _saveStars() COMPLETE ===");
-  // }
-
   Future<void> _saveStars(int levelIndex, int stars) async {
   log("=== _saveStars() START ===");
   log("Saving stars - Level: $levelIndex, Stars: $stars");
