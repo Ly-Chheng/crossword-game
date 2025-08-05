@@ -41,22 +41,17 @@ flutter:
     - assets/audio/
     - assets/image/
     - assets/image/enductional_image.png
-    - assets/image/logic_game.png
-    - assets/image/puzzle_game.png
-    - assets/image/quiz_game.png
     - assets/image/mongkeys.png
     - assets/image/sparrow.png
     - assets/image/more.png
-    - assets/image/icon_parking.png
-    - assets/image/wrong1.gif
-    - assets/image/problem.png
     - assets/image/chicken.png
     - assets/image/bear_forest.png
     - assets/image/line.png
-    - assets/image/bg_start.jpg
     - assets/image/level_star_empty.png
     - assets/image/music.png
     - assets/image/icon_sound.png
+    - assets/image/icons_charater.png
+
     
    
 
